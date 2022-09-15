@@ -1,2 +1,3 @@
+from pprint import pprint as pp
 my_new_code = 'Keep trying'
-print(my_new_code)
+pp(my_new_code)
